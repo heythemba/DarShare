@@ -74,5 +74,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 Authors 
-[eslam alawy](https://github.com/eslamalawy)  
-[koot magdy](https://github.com/kootmagdy)
+[Racem Bouchnak](https://github.com/Racem-BOUCHNAK)  
+[Heythem Baganna](https://github.com/heythemba)
